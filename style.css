@@ -531,7 +531,7 @@ body {
 /* CSS for foot section */
 
 .foot-section {
-    height: 80px;
+    height: 70px;
     width: 98.6%;
     background: linear-gradient(to right, #ae2896, #509bf5);
     display: flex;
